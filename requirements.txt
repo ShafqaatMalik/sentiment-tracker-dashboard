@@ -1,0 +1,7 @@
+praw
+nltk
+streamlit
+pandas
+numpy
+yfinance
+plotly

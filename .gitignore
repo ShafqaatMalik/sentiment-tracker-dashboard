@@ -1,0 +1,4 @@
+__pycache__/
+config.json
+reddit_sentiment.csv
+.env
