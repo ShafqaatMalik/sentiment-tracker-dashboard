@@ -2,31 +2,6 @@
 # Reddit Sentiment Tracker
 A modular social media sentiment tracking app for Reddit, featuring real-time and historical sentiment analysis, interactive dashboards, and stock correlation.
 
-## Project Structure
-sentiment tracking project/
-├── modules/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── dashboard.py
-│   ├── data_utils.py
-│   ├── processing.py
-│   ├── reddit_client.py
-│   ├── sentiment.py
-│   └── stock.py
-├── tests/
-│   ├── test_sample.py
-│   ├── test_data_utils.py
-│   ├── test_sentiment.py
-│   └── test_stock.py
-├── config.json
-├── reddit_sentiment.csv
-├── requirements.txt
-├── sentiment_tracker.py
-├── README.md
-├── .gitignore
-└── .vscode/
-	└── settings.json
-
 ## Demo Video
 Watch a demo of the Sentiment Tracking Dashboard:
 [Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1bVjBr8trSxjwI4f4FDGCJsPhwwCLzNlh/view?usp=sharing)
